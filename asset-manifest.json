@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kia/static/css/main.2d67298f.css",
+    "main.js": "/kia/static/js/main.e543f68c.js",
+    "static/js/787.d3eabd80.chunk.js": "/kia/static/js/787.d3eabd80.chunk.js",
+    "index.html": "/kia/index.html",
+    "main.2d67298f.css.map": "/kia/static/css/main.2d67298f.css.map",
+    "main.e543f68c.js.map": "/kia/static/js/main.e543f68c.js.map",
+    "787.d3eabd80.chunk.js.map": "/kia/static/js/787.d3eabd80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d67298f.css",
+    "static/js/main.e543f68c.js"
+  ]
+}

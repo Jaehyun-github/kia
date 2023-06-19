@@ -1,0 +1,34 @@
+{
+  "data" : [
+    {
+      "url" : "/img/ev6gt_mo.jpg",
+      "title" : "Feel the unexpected performance",
+      "name" : "The Kia EV6 GT"
+    },
+    {
+      "url" : "/img/ev9_mo.jpg",
+      "title" : "모두에게 처음",
+      "name" : "The Kia EV9"
+    },
+    {
+      "url" : "/img/k5_mo.jpg",
+      "title" : "Play Interactive",
+      "name" : "The 2023 K5"
+    },
+    {
+      "url" : "/img/sorento_mo.jpg",
+      "title" : "새로운 시대의 플레이",
+      "name" : "The 2023 Sorento"
+    },    
+    {
+      "url" : "/img/carnival_hi_mo.jpg",
+      "title" : "하이엔드 라이프의 시작",
+      "name" : "카니발 하이리무진"
+    },
+    {
+      "url" : "/video/logoStory_mo.mp4",
+      "title" : "완전히 변화된 기아의 모습, 새로운 로고 비하인드 스토리",
+      "name" : "Source of Inspiration: The Origin"
+    }
+  ]
+}
